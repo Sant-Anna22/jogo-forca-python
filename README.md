@@ -34,15 +34,6 @@ O jogo funciona para dois jogadores:
 ## Objetivo do projeto
 
 Este projeto foi criado durante meus estudos de Python com foco em prática de lógica de programação e desenvolvimento de projetos próprios.
-
-## 📷 Exemplo do jogo
-
-```text
-Digite uma letra: a
-
-A palavra formada é: *s*a*a
-```
-
 ---
 
-Desenvolvido para aprendizado e evolução em programação 🚀
+Desenvolvido para aprendizado e evolução em programação
