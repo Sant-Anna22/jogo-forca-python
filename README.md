@@ -6,7 +6,7 @@ O jogo funciona para dois jogadores:
 - Um jogador escolhe a palavra secreta
 - O outro tenta descobrir letra por letra
 
-## 🎮 Funcionalidades
+## Funcionalidades
 
 - Sistema de adivinhação de palavras
 - Exibição da palavra parcialmente descoberta
@@ -16,7 +16,7 @@ O jogo funciona para dois jogadores:
 - Reinício automático do jogo
 - Compatibilidade com Windows e Linux
 
-## 🧠 Conceitos praticados
+## Conceitos praticados
 
 - `while`
 - `if / else`
@@ -27,11 +27,11 @@ O jogo funciona para dois jogadores:
 - Tratamento de lógica
 - Limpeza de terminal com `os.system()`
 
-## 🚀 Tecnologias
+## Tecnologias
 
 - Python 3
 
-## ▶️ Como executar
+## Como executar
 
 1. Clone o repositório:
 ```bash
@@ -48,7 +48,7 @@ cd nome-do-repositorio
 python jogo.py
 ```
 
-## 📌 Objetivo do projeto
+## Objetivo do projeto
 
 Este projeto foi criado durante meus estudos de Python com foco em prática de lógica de programação e desenvolvimento de projetos próprios.
 
